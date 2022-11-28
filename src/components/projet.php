@@ -1,7 +1,7 @@
 <div class="container-fluid" >
 
 
-    <h2 class="text-center my-3 ">Projets</h2>
+    <h2 id="projet" class="text-center my-3 ">Projets</h2>
 
     <div class="row ">
 

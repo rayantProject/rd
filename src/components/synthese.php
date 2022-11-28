@@ -2,7 +2,7 @@
 
    <div class="w-100">
 
-       <div class="w-100  d-flex justify-content-center my-4   ">
+       <div id="synthese" class="w-100  d-flex justify-content-center my-4   ">
 
            <div>
 

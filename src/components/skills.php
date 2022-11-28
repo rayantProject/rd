@@ -1,5 +1,5 @@
 <div class="container-fluid p-5">
-    <h2 class="text-center my-3">Mes compétences</h2>
+    <h2 id="skills" class="text-center my-3">Mes compétences</h2>
 
     <div class="d-flex justify-content-center mt-3">
 

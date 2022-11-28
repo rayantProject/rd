@@ -2,7 +2,7 @@
         <div class="container ">
             <div class="white-divider"></div>
             <div class="heading">
-                <h2 class="text-center my-3" >Experience Professionnelle</h2>
+                <h2 id="parcour" class="text-center my-3" >Experience Professionnelle</h2>
             </div>
             <ul class="timeline">
                 <li>
